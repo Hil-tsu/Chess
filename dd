@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <title>
+      Chess Online
+    </title>
+    <meta charset="utf-8">
+    <style>
+
+      a, h1,img{
+        border-width:2px;
+        border-color:grey;
+        border-style:solid;
+        font-size:70px;
+        text-align:center;
+      }
+      img{
+        text-align:center;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="http://www.google.com"><h1>
+      Chess Online
+    </h1></a>
+    나는 <strong style="background-color:#CF0"><u>체스</u></strong>를 만들려고 해<br>
+    어떻게 만들어야할까?
+    <img src="naver.jpeg">
+    <ol>
+      <li><a href="http://www.naver.com" target="_blank" title="구글"">네이버</a></li>
+      <li>구글</li>
+      <li>카카오</li>
+    </ol>
+    <ol>
+      <li>네이버</li>
+      <li>구글</li>
+      <li>카카오</li>
+    </ol>
+    
+  </body>
+
+</html>
